@@ -17,7 +17,7 @@ const instagramPosts = [
   },
   {
     id: 4,
-    image: 'https://images.unsplash.com/photo-1596433809252-901acb9ae0b7?q=80&w=2940&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1696159198163-98479e11e0ef?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
 ];
 

@@ -29,6 +29,6 @@ export const fragrances: Fragrance[] = [
     topNotes: ['Pine Needles', 'Eucalyptus'],
     middleNotes: ['Cedar', 'Fir Balsam'],
     baseNotes: ['Moss', 'Woody Notes'],
-    image: 'https://images.unsplash.com/photo-1607892141389-3be8d54d00f0?q=80&w=2940&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1669151432266-cd991ea149ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
 ];

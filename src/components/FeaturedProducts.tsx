@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Star } from 'lucide-react';
 
+
 const products = [
   {
     id: 1,
@@ -14,14 +15,14 @@ const products = [
     id: 2,
     name: 'Lavender Mist',
     price: 29.99,
-    image: 'https://images.unsplash.com/photo-1596433809252-901acb9ae0b7?q=80&w=2940&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1663615482440-4591d9e9cb7c?q=80&w=1974&auto=format&fit=crop&',
     rating: 4,
   },
   {
     id: 3,
     name: 'Ocean Breeze',
     price: 39.99,
-    image: 'https://images.unsplash.com/photo-1599446794254-16ca3df5a0bb?q=80&w=2940&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1694433533360-3aa5cf5c2799?q=80&w=2130&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     rating: 5,
   },
 ];

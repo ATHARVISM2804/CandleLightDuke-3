@@ -21,7 +21,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
             <div className="relative h-[400px] rounded-lg overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1602521879205-9e37c77c3077?q=80&w=2940&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1654619139072-682d58ba1b93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Candle making process"
                 className="w-full h-full object-cover"
               />
@@ -54,7 +54,7 @@ const About = () => {
                 {
                   title: 'Selection',
                   description: 'We carefully select the finest natural ingredients and premium fragrances.',
-                  image: 'https://images.unsplash.com/photo-1602521879205-9e37c77c3077?q=80&w=2940&auto=format&fit=crop',
+                  image: 'https://images.unsplash.com/photo-1663615482440-4591d9e9cb7c?q=80&w=1974&auto=format&fit=crop',
                 },
                 {
                   title: 'Crafting',
